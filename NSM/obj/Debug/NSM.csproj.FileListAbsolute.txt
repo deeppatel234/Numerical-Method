@@ -1,0 +1,217 @@
+c:\users\deep patel\documents\visual studio 2013\Projects\NSM\NSM\bin\Debug\App.xbf
+c:\users\deep patel\documents\visual studio 2013\Projects\NSM\NSM\bin\Debug\MainPage.xbf
+c:\users\deep patel\documents\visual studio 2013\Projects\NSM\NSM\bin\Debug\NSM.xr.xml
+c:\users\deep patel\documents\visual studio 2013\Projects\NSM\NSM\bin\Debug\NSM.exe
+c:\users\deep patel\documents\visual studio 2013\Projects\NSM\NSM\bin\Debug\NSM.pdb
+c:\users\deep patel\documents\visual studio 2013\Projects\NSM\NSM\bin\Debug\resources.pri
+c:\users\deep patel\documents\visual studio 2013\Projects\NSM\NSM\bin\Debug\AppxManifest.xml
+c:\users\deep patel\documents\visual studio 2013\Projects\NSM\NSM\bin\Debug\NSM.build.appxrecipe
+c:\users\deep patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\App.g.i.cs
+c:\users\deep patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\App.g.cs
+c:\users\deep patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\MainPage.g.i.cs
+c:\users\deep patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\MainPage.g.cs
+c:\users\deep patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\XamlTypeInfo.g.cs
+c:\users\deep patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\App.xaml
+c:\users\deep patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\App.xbf
+c:\users\deep patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\XamlSaveStateFile.xml
+c:\users\deep patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\MainPage.xaml
+c:\users\deep patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\MainPage.xbf
+c:\users\deep patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\NSM.exe
+c:\users\deep patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\NSM.pdb
+c:\users\deep patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\priconfig.xml
+c:\users\deep patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\priconfig.xml.intermediate
+c:\users\deep patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\layout.resfiles
+c:\users\deep patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\layout.resfiles.intermediate
+c:\users\deep patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\resources.resfiles
+c:\users\deep patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\resources.resfiles.intermediate
+c:\users\deep patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\pri.resfiles
+c:\users\deep patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\pri.resfiles.intermediate
+c:\users\deep patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\qualifiers.txt
+c:\users\deep patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\qualifiers.txt.intermediate
+c:\users\deep patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\deep patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\ProjectArchitectures.txt
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\bin\Debug\Weddel's Rule.xbf
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\bin\Debug\Weddels Rule Calculation.xbf
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\Weddel's Rule.g.i.cs
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\Weddel's Rule.g.cs
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\Weddels Rule Calculation.g.i.cs
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\Weddels Rule Calculation.g.cs
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\Weddel's Rule.xaml
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\Weddels Rule Calculation.xaml
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\Weddel's Rule.xbf
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\Weddels Rule Calculation.xbf
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\bin\Debug\Simpsons13RuleCalculation.xbf
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\Simpsons13RuleCalculation.g.i.cs
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\Simpsons13RuleCalculation.g.cs
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\Simpsons13RuleCalculation.xaml
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\Simpsons13RuleCalculation.xbf
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\bin\Debug\Simpson38RuleMethod.xbf
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\bin\Debug\TrapezoidalRule.xbf
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\Simpson38RuleMethod.g.i.cs
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\Simpson38RuleMethod.g.cs
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\TrapezoidalRule.g.i.cs
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\TrapezoidalRule.g.cs
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\Simpson38RuleMethod.xaml
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\TrapezoidalRule.xaml
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\Simpson38RuleMethod.xbf
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\TrapezoidalRule.xbf
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\bin\Debug\GaussSeidal.xbf
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\bin\Debug\GaussSeidal_Calculation.xbf
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\GaussSeidal.g.i.cs
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\GaussSeidal.g.cs
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\GaussSeidal_Calculation.g.i.cs
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\GaussSeidal_Calculation.g.cs
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\GaussSeidal.xaml
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\GaussSeidal_Calculation.xaml
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\GaussSeidal.xbf
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\GaussSeidal_Calculation.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Debug\About.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Debug\NumericalIntegration.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Debug\SEttings.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Debug\System of Linear Equations.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Debug\System of NonLinear Equations.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\About.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\About.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\NumericalIntegration.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\NumericalIntegration.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\SEttings.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\SEttings.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\System of Linear Equations.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\System of Linear Equations.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\System of NonLinear Equations.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\System of NonLinear Equations.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\About.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\NumericalIntegration.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\SEttings.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\System of Linear Equations.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\System of NonLinear Equations.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\About.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\NumericalIntegration.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\SEttings.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\System of Linear Equations.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\System of NonLinear Equations.xbf
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\bin\Debug\NumericalGetValuesPage.xbf
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\NumericalGetValuesPage.g.i.cs
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\NumericalGetValuesPage.g.cs
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\NumericalGetValuesPage.xaml
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\NumericalGetValuesPage.xbf
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\bin\Debug\GaussJacobi_calculation.xbf
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\GaussJacobi_calculation.g.i.cs
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\GaussJacobi_calculation.g.cs
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\GaussJacobi_calculation.xaml
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\GaussJacobi_calculation.xbf
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\bin\Debug\PowerMethod.xbf
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\PowerMethod.g.i.cs
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\PowerMethod.g.cs
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\PowerMethod.xaml
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\PowerMethod.xbf
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\PowerMethod_2X2Calculation.g.i.cs
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\PowerMethod_2X2Calculation.g.cs
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\bin\Debug\PowerMethod_2X2Calculation.xbf
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\PowerMethod_2X2Calculation.xaml
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\PowerMethod_2X2Calculation.xbf
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\bin\Debug\PowerMethod_3X3Calculation.xbf
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\PowerMethod_3X3Calculation.g.i.cs
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\PowerMethod_3X3Calculation.g.cs
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\PowerMethod_3X3Calculation.xaml
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\PowerMethod_3X3Calculation.xbf
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\bin\Debug\FiniteInterpolation.xbf
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\FiniteInterpolation.g.i.cs
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\FiniteInterpolation.g.cs
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\FiniteInterpolation.xaml
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\FiniteInterpolation.xbf
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\bin\Debug\Lagranges Method Calculation.xbf
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\Lagranges Method Calculation.g.i.cs
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\Lagranges Method Calculation.g.cs
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\Lagranges Method Calculation.xaml
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\Lagranges Method Calculation.xbf
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\NewtonForwardMethod.g.i.cs
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\NewtonForwardMethod.g.cs
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\bin\Debug\NewtonForwardMethod.xbf
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\NewtonForwardMethod.xaml
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\NewtonForwardMethod.xbf
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\bin\Debug\Finite Method GetData Page.xbf
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\Finite Method GetData Page.g.i.cs
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\Finite Method GetData Page.g.cs
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\Finite Method GetData Page.xaml
+C:\Users\Deep Patel\documents\visual studio 2013\Projects\NSM\NSM\obj\Debug\Finite Method GetData Page.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Debug\Newton Backward Method.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\Newton Backward Method.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\Newton Backward Method.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\Newton Backward Method.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\Newton Backward Method.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Debug\Bisection Method Calculation.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Debug\BisectionMethod.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Debug\NRMethos.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\Bisection Method Calculation.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\Bisection Method Calculation.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\BisectionMethod.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\BisectionMethod.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\NRMethos.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\NRMethos.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\NRMethos.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\NRMethos.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\Bisection Method Calculation.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\BisectionMethod.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\Bisection Method Calculation.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\BisectionMethod.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Debug\Secant Method Calcualtion.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Debug\Secant Method.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\Secant Method Calcualtion.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\Secant Method Calcualtion.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\Secant Method.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\Secant Method.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\Secant Method Calcualtion.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\Secant Method.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\Secant Method Calcualtion.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\Secant Method.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Debug\NR Root Calcuation.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Debug\NRRoots.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\NR Root Calcuation.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\NR Root Calcuation.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\NRRoots.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\NRRoots.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\NRRoots.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\NRRoots.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\NR Root Calcuation.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\NR Root Calcuation.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Debug\Help\Help Page.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\Help\Help Page.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\Help\Help Page.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\Help\Help Page.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\Help\Help Page.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Debug\Help\bisection Help.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Debug\Help\Finite Help.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Debug\Help\Power Help.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Debug\Help\Roots Help.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Debug\Help\Seidal Help.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Debug\Help\Trap Help.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Debug\Help\Wedd Help.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\Help\bisection Help.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\Help\bisection Help.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\Help\Finite Help.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\Help\Finite Help.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\Help\Power Help.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\Help\Power Help.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\Help\Roots Help.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\Help\Roots Help.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\Help\Seidal Help.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\Help\Seidal Help.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\Help\Trap Help.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\Help\Trap Help.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\Help\Wedd Help.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\Help\Wedd Help.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\Help\Finite Help.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\Help\Power Help.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\Help\Roots Help.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\Help\Seidal Help.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\Help\Trap Help.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\Help\Wedd Help.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\Help\Finite Help.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\Help\Power Help.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\Help\Roots Help.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\Help\Seidal Help.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\Help\Trap Help.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\Help\Wedd Help.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\Help\bisection Help.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Debug\Help\bisection Help.xbf

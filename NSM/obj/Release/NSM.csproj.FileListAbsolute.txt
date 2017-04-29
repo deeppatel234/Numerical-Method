@@ -1,0 +1,217 @@
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\App.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\About.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\Bisection Method Calculation.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\BisectionMethod.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\FiniteInterpolation.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\GaussJacobi_calculation.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\GaussSeidal.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\GaussSeidal_Calculation.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\Help\bisection Help.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\Help\Finite Help.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\Help\Help Page.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\Help\Power Help.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\Help\Roots Help.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\Help\Seidal Help.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\Help\Trap Help.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\Help\Wedd Help.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\Lagranges Method Calculation.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\Finite Method GetData Page.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\Newton Backward Method.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\NewtonForwardMethod.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\NR Root Calcuation.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\NRMethos.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\NRRoots.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\NumericalGetValuesPage.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\MainPage.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\NumericalIntegration.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\PowerMethod.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\PowerMethod_2X2Calculation.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\PowerMethod_3X3Calculation.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\Secant Method Calcualtion.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\Secant Method.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\SEttings.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\Simpson38RuleMethod.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\Simpsons13RuleCalculation.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\System of Linear Equations.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\System of NonLinear Equations.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\TrapezoidalRule.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\Weddel's Rule.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\Weddels Rule Calculation.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\NSM.xr.xml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\NSM.exe
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\NSM.pdb
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\resources.pri
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\AppxManifest.xml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\NSM.build.appxrecipe
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\App.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\App.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\About.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\About.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Bisection Method Calculation.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Bisection Method Calculation.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\BisectionMethod.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\BisectionMethod.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\FiniteInterpolation.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\FiniteInterpolation.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\GaussJacobi_calculation.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\GaussJacobi_calculation.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\GaussSeidal.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\GaussSeidal.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\GaussSeidal_Calculation.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\GaussSeidal_Calculation.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Help\bisection Help.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Help\bisection Help.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Help\Finite Help.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Help\Finite Help.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Help\Help Page.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Help\Help Page.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Help\Power Help.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Help\Power Help.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Help\Roots Help.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Help\Roots Help.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Help\Seidal Help.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Help\Seidal Help.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Help\Trap Help.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Help\Trap Help.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Help\Wedd Help.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Help\Wedd Help.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Lagranges Method Calculation.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Lagranges Method Calculation.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Finite Method GetData Page.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Finite Method GetData Page.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Newton Backward Method.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Newton Backward Method.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\NewtonForwardMethod.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\NewtonForwardMethod.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\NR Root Calcuation.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\NR Root Calcuation.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\NRMethos.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\NRMethos.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\NRRoots.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\NRRoots.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\NumericalGetValuesPage.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\NumericalGetValuesPage.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\MainPage.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\MainPage.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\NumericalIntegration.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\NumericalIntegration.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\PowerMethod.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\PowerMethod.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\PowerMethod_2X2Calculation.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\PowerMethod_2X2Calculation.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\PowerMethod_3X3Calculation.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\PowerMethod_3X3Calculation.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Secant Method Calcualtion.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Secant Method Calcualtion.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Secant Method.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Secant Method.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\SEttings.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\SEttings.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Simpson38RuleMethod.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Simpson38RuleMethod.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Simpsons13RuleCalculation.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Simpsons13RuleCalculation.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\System of Linear Equations.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\System of Linear Equations.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\System of NonLinear Equations.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\System of NonLinear Equations.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\TrapezoidalRule.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\TrapezoidalRule.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Weddel's Rule.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Weddel's Rule.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Weddels Rule Calculation.g.i.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Weddels Rule Calculation.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\XamlTypeInfo.g.cs
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\App.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\About.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Bisection Method Calculation.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\BisectionMethod.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\FiniteInterpolation.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\GaussJacobi_calculation.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\GaussSeidal.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\GaussSeidal_Calculation.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Help\bisection Help.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Help\Finite Help.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Help\Help Page.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Help\Power Help.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Help\Roots Help.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Help\Seidal Help.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Help\Trap Help.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Help\Wedd Help.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Lagranges Method Calculation.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Finite Method GetData Page.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Newton Backward Method.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\NewtonForwardMethod.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\NR Root Calcuation.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\NRMethos.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\NRRoots.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\NumericalGetValuesPage.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\MainPage.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\NumericalIntegration.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\PowerMethod.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\PowerMethod_2X2Calculation.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\PowerMethod_3X3Calculation.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Secant Method Calcualtion.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Secant Method.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\SEttings.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Simpson38RuleMethod.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Simpsons13RuleCalculation.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\System of Linear Equations.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\System of NonLinear Equations.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\TrapezoidalRule.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Weddel's Rule.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Weddels Rule Calculation.xaml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\App.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\About.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Bisection Method Calculation.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\BisectionMethod.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\FiniteInterpolation.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\GaussJacobi_calculation.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\GaussSeidal.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\GaussSeidal_Calculation.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Help\bisection Help.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Help\Finite Help.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Help\Help Page.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Help\Power Help.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Help\Roots Help.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Help\Seidal Help.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Help\Trap Help.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Help\Wedd Help.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Lagranges Method Calculation.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Finite Method GetData Page.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Newton Backward Method.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\NewtonForwardMethod.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\NR Root Calcuation.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\NRMethos.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\NRRoots.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\NumericalGetValuesPage.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\MainPage.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\NumericalIntegration.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\PowerMethod.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\PowerMethod_2X2Calculation.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\PowerMethod_3X3Calculation.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Secant Method Calcualtion.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Secant Method.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\SEttings.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Simpson38RuleMethod.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Simpsons13RuleCalculation.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\System of Linear Equations.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\System of NonLinear Equations.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\TrapezoidalRule.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Weddel's Rule.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\Weddels Rule Calculation.xbf
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\XamlSaveStateFile.xml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\NSM.exe
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\NSM.pdb
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\priconfig.xml
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\priconfig.xml.intermediate
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\layout.resfiles
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\layout.resfiles.intermediate
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\resources.resfiles
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\resources.resfiles.intermediate
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\pri.resfiles
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\pri.resfiles.intermediate
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\qualifiers.txt
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\qualifiers.txt.intermediate
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\ProjectArchitectures.txt

@@ -1,0 +1,52 @@
+Assets\BadgeLogo.scale-240.png
+Assets\Icons\AboutIcon.png
+Assets\Icons\HelpIcon.png
+Assets\Icons\Next.png
+Assets\Icons\RateIcon.png
+Assets\Icons\SettingsIcon.png
+Assets\Logo.scale-240.png
+Assets\SmallLogo.scale-240.png
+Assets\SplashScreen.scale-240.png
+Assets\Square71x71Logo.scale-240.png
+Assets\StoreLogo.scale-240.png
+Assets\WideLogo.scale-240.png
+About.xbf
+App.xbf
+Bisection Method Calculation.xbf
+BisectionMethod.xbf
+Finite Method GetData Page.xbf
+FiniteInterpolation.xbf
+GaussJacobi_calculation.xbf
+GaussSeidal.xbf
+GaussSeidal_Calculation.xbf
+Help\bisection Help.xbf
+Help\Finite Help.xbf
+Help\Help Page.xbf
+Help\Power Help.xbf
+Help\Roots Help.xbf
+Help\Seidal Help.xbf
+Help\Trap Help.xbf
+Help\Wedd Help.xbf
+Lagranges Method Calculation.xbf
+MainPage.xbf
+Newton Backward Method.xbf
+NewtonForwardMethod.xbf
+NR Root Calcuation.xbf
+NRMethos.xbf
+NRRoots.xbf
+NSM.xr.xml
+NumericalGetValuesPage.xbf
+NumericalIntegration.xbf
+PowerMethod.xbf
+PowerMethod_2X2Calculation.xbf
+PowerMethod_3X3Calculation.xbf
+Secant Method Calcualtion.xbf
+Secant Method.xbf
+SEttings.xbf
+Simpson38RuleMethod.xbf
+Simpsons13RuleCalculation.xbf
+System of Linear Equations.xbf
+System of NonLinear Equations.xbf
+TrapezoidalRule.xbf
+Weddels Rule Calculation.xbf
+Weddel's Rule.xbf

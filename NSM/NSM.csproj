@@ -1,0 +1,410 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5FAF5DD9-B7A7-48BF-9511-C23B4720540A}</ProjectGuid>
+    <OutputType>AppContainerExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>NSM</RootNamespace>
+    <AssemblyName>NSM</AssemblyName>
+    <DefaultLanguage>en-US</DefaultLanguage>
+    <TargetPlatformVersion>8.1</TargetPlatformVersion>
+    <MinimumVisualStudioVersion>12</MinimumVisualStudioVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{76F1466A-8B6D-4E39-A767-685A06062A39};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <AppxAutoIncrementPackageRevision>True</AppxAutoIncrementPackageRevision>
+    <AppxBundlePlatforms>neutral</AppxBundlePlatforms>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_PHONE_APP</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_PHONE_APP</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\ARM\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_PHONE_APP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM'">
+    <OutputPath>bin\ARM\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_PHONE_APP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_PHONE_APP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_PHONE_APP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <!-- A reference to the entire .Net Framework and Windows SDK are automatically included -->
+    <Page Include="About.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Bisection Method Calculation.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="BisectionMethod.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="FiniteInterpolation.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="GaussJacobi_calculation.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="GaussSeidal.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="GaussSeidal_Calculation.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Help\bisection Help.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Help\Finite Help.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Help\Help Page.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Help\Power Help.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Help\Roots Help.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Help\Seidal Help.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Help\Trap Help.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Help\Wedd Help.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Lagranges Method Calculation.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Finite Method GetData Page.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Newton Backward Method.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="NewtonForwardMethod.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="NR Root Calcuation.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="NRMethos.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="NRRoots.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="NumericalGetValuesPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="NumericalIntegration.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PowerMethod.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PowerMethod_2X2Calculation.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PowerMethod_3X3Calculation.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Secant Method Calcualtion.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Secant Method.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="SEttings.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Simpson38RuleMethod.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Simpsons13RuleCalculation.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="System of Linear Equations.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="System of NonLinear Equations.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="TrapezoidalRule.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Weddel%27s Rule.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Weddels Rule Calculation.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.xaml.cs">
+      <DependentUpon>About.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Bisection Method Calculation.xaml.cs">
+      <DependentUpon>Bisection Method Calculation.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="BisectionMethod.xaml.cs">
+      <DependentUpon>BisectionMethod.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="BisectionMethod_Class.cs" />
+    <Compile Include="Common\NavigationHelper.cs" />
+    <Compile Include="Common\ObservableDictionary.cs" />
+    <Compile Include="Common\RelayCommand.cs" />
+    <Compile Include="Common\SuspensionManager.cs" />
+    <Compile Include="FiniteInterpolation.xaml.cs">
+      <DependentUpon>FiniteInterpolation.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="GaussJacobi_calculation.xaml.cs">
+      <DependentUpon>GaussJacobi_calculation.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="GaussSeidal.xaml.cs">
+      <DependentUpon>GaussSeidal.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="GaussSeidal_Calculation.xaml.cs">
+      <DependentUpon>GaussSeidal_Calculation.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="GaussSeidal_class.cs" />
+    <Compile Include="Help\bisection Help.xaml.cs">
+      <DependentUpon>bisection Help.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Help\Finite Help.xaml.cs">
+      <DependentUpon>Finite Help.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Help\Help Class.cs" />
+    <Compile Include="Help\Help Page.xaml.cs">
+      <DependentUpon>Help Page.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Help\Power Help.xaml.cs">
+      <DependentUpon>Power Help.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Help\Roots Help.xaml.cs">
+      <DependentUpon>Roots Help.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Help\Seidal Help.xaml.cs">
+      <DependentUpon>Seidal Help.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Help\Trap Help.xaml.cs">
+      <DependentUpon>Trap Help.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Help\Wedd Help.xaml.cs">
+      <DependentUpon>Wedd Help.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Lagranges Method Calculation.xaml.cs">
+      <DependentUpon>Lagranges Method Calculation.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Finite Method GetData Page.xaml.cs">
+      <DependentUpon>Finite Method GetData Page.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Finite Method Getdata Class.cs" />
+    <Compile Include="Newton Backward Method.xaml.cs">
+      <DependentUpon>Newton Backward Method.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="NewtonForwardMethod.xaml.cs">
+      <DependentUpon>NewtonForwardMethod.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="NR Root Calcuation.xaml.cs">
+      <DependentUpon>NR Root Calcuation.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="NRMethos.xaml.cs">
+      <DependentUpon>NRMethos.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="NRRoots.xaml.cs">
+      <DependentUpon>NRRoots.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="NumericalGetValuesPage.xaml.cs">
+      <DependentUpon>NumericalGetValuesPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="NumericalIntegration.xaml.cs">
+      <DependentUpon>NumericalIntegration.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PowerMethod.xaml.cs">
+      <DependentUpon>PowerMethod.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PowerMethod_2X2Calculation.xaml.cs">
+      <DependentUpon>PowerMethod_2X2Calculation.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PowerMethod_3X3Calculation.xaml.cs">
+      <DependentUpon>PowerMethod_3X3Calculation.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PowerMethod_class.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Getdata_Class.cs" />
+    <Compile Include="Secant Method Calcualtion.xaml.cs">
+      <DependentUpon>Secant Method Calcualtion.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Secant Method.xaml.cs">
+      <DependentUpon>Secant Method.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Settings Class.cs" />
+    <Compile Include="SEttings.xaml.cs">
+      <DependentUpon>SEttings.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Simpson38RuleMethod.xaml.cs">
+      <DependentUpon>Simpson38RuleMethod.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Simpsons13RuleCalculation.xaml.cs">
+      <DependentUpon>Simpsons13RuleCalculation.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="System of Linear Equations.xaml.cs">
+      <DependentUpon>System of Linear Equations.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="System of NonLinear Equations.xaml.cs">
+      <DependentUpon>System of NonLinear Equations.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TrapezoidalRule.xaml.cs">
+      <DependentUpon>TrapezoidalRule.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Weddel%27s Rule.xaml.cs">
+      <DependentUpon>Weddel%27s Rule.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Weddels Rule Calculation.xaml.cs">
+      <DependentUpon>Weddels Rule Calculation.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="WeddelsRuleClass.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <AppxManifest Include="Package.appxmanifest">
+      <SubType>Designer</SubType>
+    </AppxManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assets\BadgeLogo.scale-240.png" />
+    <Content Include="Assets\Icons\AboutIcon.png" />
+    <Content Include="Assets\Icons\Next.png" />
+    <Content Include="Assets\Icons\RateIcon.png" />
+    <Content Include="Assets\Icons\HelpIcon.png" />
+    <Content Include="Assets\Icons\SettingsIcon.png" />
+    <Content Include="Assets\Logo.scale-240.png" />
+    <Content Include="Assets\SmallLogo.scale-240.png" />
+    <Content Include="Assets\SplashScreen.scale-240.png" />
+    <Content Include="Assets\Square71x71Logo.scale-240.png" />
+    <Content Include="Assets\StoreLogo.scale-240.png" />
+    <Content Include="Assets\WideLogo.scale-240.png" />
+    <None Include="Package.StoreAssociation.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '12.0' ">
+    <VisualStudioVersion>12.0</VisualStudioVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(TargetPlatformIdentifier)' == '' ">
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\WindowsXaml\v$(VisualStudioVersion)\Microsoft.Windows.UI.Xaml.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

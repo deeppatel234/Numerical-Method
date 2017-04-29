@@ -1,0 +1,87 @@
+﻿<Page
+    x:Class="NSM.Simpson38RuleMethod"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:NSM"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    
+        <Grid x:Name="LayoutRoot" Margin="0,-26.667,0,-0.333">
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="110" />
+                <RowDefinition Height="30" />
+                <RowDefinition Height="30" />
+                <RowDefinition Height="10" />
+                <RowDefinition Height="90" />
+                <RowDefinition Height="50" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+
+            <TextBlock Grid.Row="0" Text="Simpson's 3/8 Rule" FontSize="45" VerticalAlignment="Bottom" HorizontalAlignment="Center" />
+            <TextBlock Grid.Row="2" Text="Solved By This Equation" FontSize="20" VerticalAlignment="Center" />
+        <Line  Name="lines" VerticalAlignment="Bottom" StrokeThickness="3" X1="0" X2="500" />
+        
+            
+        <ScrollViewer Grid.Row="4" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto">
+            <Grid Grid.Row="4">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="35" />
+                        <ColumnDefinition Width="100" />
+                        <ColumnDefinition Width="40" />
+                        <ColumnDefinition Width="10" />
+                        <ColumnDefinition Width="20" />
+                        <ColumnDefinition Width="640" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+
+                    <TextBlock Grid.Column="0" Text=" Xn" FontSize="20" VerticalAlignment="Top" />
+                    <TextBlock Grid.Column="0" Text=" ∫" FontSize="30" VerticalAlignment="Center"  />
+                    <TextBlock Grid.Column="0" Text=" X0" FontSize="20" VerticalAlignment="Bottom" />
+
+                    <TextBlock Grid.Column="1" Text="f(x) dx = " FontSize="25" VerticalAlignment="Center" />
+
+                    <Grid Grid.Column="2">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="2*"/>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="2*"/>
+                        </Grid.RowDefinitions>
+                        <TextBlock Grid.Row="0" Text="h" FontSize="25" VerticalAlignment="Bottom" HorizontalAlignment="Center"/>
+                        <TextBlock Grid.Row="1" Text="-----" FontSize="20" VerticalAlignment="Center" />
+                        <TextBlock Grid.Row="2" Text="3" FontSize="25" VerticalAlignment="Top" HorizontalAlignment="Center" />
+                    </Grid>
+
+                    <TextBlock Text="[" Grid.Column="4" FontSize="50" VerticalAlignment="Center" />
+                    <TextBlock Text=" ( y0 + yn) + 4 (y1 + y3 + y5 + ....) + 2 ( y2 + y4 + y6 + .....)" Grid.Column="5" VerticalAlignment="Center" FontSize="25" />
+                    <TextBlock Text="]" Grid.Column="6" FontSize="50" VerticalAlignment="Center" />
+                </Grid>
+         </ScrollViewer>
+
+        <TextBlock Text="Answer : " Grid.Row="5" FontSize="30" VerticalAlignment="Bottom"/>
+            
+        <ScrollViewer Grid.Row="6" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto">
+            <Grid Grid.Row="4">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="60"/>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+
+                <TextBlock Grid.Row="0" Name="FindH" FontSize="25" VerticalAlignment="Center" />
+                <TextBlock Grid.Row="1" Name="FirstStep" FontSize="30" VerticalAlignment="Center" />
+                <TextBlock Grid.Row="2" Name="SecondStep" FontSize="30" VerticalAlignment="Center" />
+                <TextBlock Grid.Row="3" Name="ThirdStep" FontSize="30" VerticalAlignment="Center" />
+                <TextBlock Grid.Row="4" Name="FourthStep" FontSize="30" VerticalAlignment="Center" />
+                <TextBlock Grid.Row="5" Name="FinalAnswer" FontSize="30" VerticalAlignment="Center" />
+            </Grid>
+        </ScrollViewer>
+    </Grid>
+</Page>

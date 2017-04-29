@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DEEPPATEL</Machine>
+    <WindowsUser>Deep Patel</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>6381eab7-f653-4571-b3f1-ded23cc2bd71</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\NSM.exe">
+      <PackagePath>NSM.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\Assets\BadgeLogo.scale-240.png">
+      <PackagePath>Assets\BadgeLogo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\Assets\Icons\AboutIcon.png">
+      <PackagePath>Assets\Icons\AboutIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\Assets\Icons\Next.png">
+      <PackagePath>Assets\Icons\Next.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\Assets\Icons\RateIcon.png">
+      <PackagePath>Assets\Icons\RateIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\Assets\Icons\HelpIcon.png">
+      <PackagePath>Assets\Icons\HelpIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\Assets\Icons\SettingsIcon.png">
+      <PackagePath>Assets\Icons\SettingsIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\About.xbf">
+      <PackagePath>About.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\Bisection Method Calculation.xbf">
+      <PackagePath>Bisection Method Calculation.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\BisectionMethod.xbf">
+      <PackagePath>BisectionMethod.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\FiniteInterpolation.xbf">
+      <PackagePath>FiniteInterpolation.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\GaussJacobi_calculation.xbf">
+      <PackagePath>GaussJacobi_calculation.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\GaussSeidal.xbf">
+      <PackagePath>GaussSeidal.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\GaussSeidal_Calculation.xbf">
+      <PackagePath>GaussSeidal_Calculation.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\Help\bisection Help.xbf">
+      <PackagePath>Help\bisection Help.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\Help\Finite Help.xbf">
+      <PackagePath>Help\Finite Help.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\Help\Help Page.xbf">
+      <PackagePath>Help\Help Page.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\Help\Power Help.xbf">
+      <PackagePath>Help\Power Help.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\Help\Roots Help.xbf">
+      <PackagePath>Help\Roots Help.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\Help\Seidal Help.xbf">
+      <PackagePath>Help\Seidal Help.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\Help\Trap Help.xbf">
+      <PackagePath>Help\Trap Help.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\Help\Wedd Help.xbf">
+      <PackagePath>Help\Wedd Help.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\Lagranges Method Calculation.xbf">
+      <PackagePath>Lagranges Method Calculation.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\Finite Method GetData Page.xbf">
+      <PackagePath>Finite Method GetData Page.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\Newton Backward Method.xbf">
+      <PackagePath>Newton Backward Method.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\NewtonForwardMethod.xbf">
+      <PackagePath>NewtonForwardMethod.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\NR Root Calcuation.xbf">
+      <PackagePath>NR Root Calcuation.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\NRMethos.xbf">
+      <PackagePath>NRMethos.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\NRRoots.xbf">
+      <PackagePath>NRRoots.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\NumericalGetValuesPage.xbf">
+      <PackagePath>NumericalGetValuesPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\NumericalIntegration.xbf">
+      <PackagePath>NumericalIntegration.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\PowerMethod.xbf">
+      <PackagePath>PowerMethod.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\PowerMethod_2X2Calculation.xbf">
+      <PackagePath>PowerMethod_2X2Calculation.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\PowerMethod_3X3Calculation.xbf">
+      <PackagePath>PowerMethod_3X3Calculation.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\Secant Method Calcualtion.xbf">
+      <PackagePath>Secant Method Calcualtion.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\Secant Method.xbf">
+      <PackagePath>Secant Method.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\SEttings.xbf">
+      <PackagePath>SEttings.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\Simpson38RuleMethod.xbf">
+      <PackagePath>Simpson38RuleMethod.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\Simpsons13RuleCalculation.xbf">
+      <PackagePath>Simpsons13RuleCalculation.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\System of Linear Equations.xbf">
+      <PackagePath>System of Linear Equations.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\System of NonLinear Equations.xbf">
+      <PackagePath>System of NonLinear Equations.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\TrapezoidalRule.xbf">
+      <PackagePath>TrapezoidalRule.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\Weddel%27s Rule.xbf">
+      <PackagePath>Weddel%27s Rule.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\Weddels Rule Calculation.xbf">
+      <PackagePath>Weddels Rule Calculation.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\NSM.xr.xml">
+      <PackagePath>NSM.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deep Patel\Documents\Visual Studio 2013\Projects\NSM\NSM\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

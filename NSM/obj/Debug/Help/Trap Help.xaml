@@ -1,0 +1,116 @@
+﻿<Page
+    x:Class="NSM.Help.Trap_Help"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:NSM.Help"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Margin="0,-26.667,0,-0.333">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="*"/>
+           </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" Text="Help" FontSize="45" HorizontalAlignment="Left" VerticalAlignment="Bottom" />
+        <TextBlock Grid.Row="1" Name="Method" FontSize="35" HorizontalAlignment="Center" VerticalAlignment="Bottom" />
+        <Line Name="line1" Grid.Row="2" Stroke="White" StrokeThickness="2" X2="600" />
+
+        <ScrollViewer Grid.Row="3" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto">
+            <Grid Grid.Row="3">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="130"/>
+                    <RowDefinition Height="120"/>
+                    <RowDefinition Height="120"/>
+                    <RowDefinition Height="140"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <TextBlock Grid.Row="0" Text="Solving the example using this table :" FontSize="20" HorizontalAlignment="Left" VerticalAlignment="Bottom" />
+
+                <Grid Grid.Row="1">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="10"/>
+                        <RowDefinition Height="100"/>
+                    </Grid.RowDefinitions>
+
+                    <Grid Height="100" Width="380" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="1">
+                        <Rectangle Name="rect" Height="100" Width="380" Stroke="White" StrokeThickness="2" />
+                        <Line Name="line5" Margin="0,50,0,0" Stroke="White" StrokeThickness="3" X2="380" />
+                        <Line Name="line6" Margin="70,0,0,0" Stroke="White" StrokeThickness="3" Y2="100" />
+                        <Line Name="line7" Margin="130,0,0,0" Stroke="White" StrokeThickness="3" Y2="100" />
+                        <Line Name="line8" Margin="190,0,0,0" Stroke="White" StrokeThickness="3" Y2="100" />
+                        <Line Name="line9" Margin="250,0,0,0" Stroke="White" StrokeThickness="3" Y2="100" />
+                        <Line Name="line10" Margin="320,0,0,0" Stroke="White" StrokeThickness="3" Y2="100" />
+
+                        <TextBlock Text="x" Margin="25,10,0,0" FontSize="30"/>
+                        <TextBlock Text="ƒ(x)" Margin="10,57,0,0" FontSize="30"/>
+
+                        <TextBlock Text="x0" Margin="85,10,0,0" FontSize="25"/>
+                        <TextBlock Text="x1" Margin="145,10,0,0" FontSize="25"/>
+                        <TextBlock Text="x2" Margin="205,10,0,0" FontSize="25"/>
+                        <TextBlock Text="......." Margin="265,10,0,0" FontSize="30"/>
+                        <TextBlock Text="xn" Margin="335,10,0,0" FontSize="25"/>
+
+                        <TextBlock Text="y0" Margin="85,57,0,0" FontSize="25"/>
+                        <TextBlock Text="y1" Margin="145,57,0,0" FontSize="25"/>
+                        <TextBlock Text="y2" Margin="205,57,0,0" FontSize="25"/>
+                        <TextBlock Text="......." Margin="265,57,0,0" FontSize="30"/>
+                        <TextBlock Text="yn" Margin="335,57,0,0" FontSize="25"/>
+
+                    </Grid>
+                </Grid>
+
+
+                <TextBlock Grid.Row="2" FontSize="20" >
+            <Run Text="Enter N Value : "/>
+        	<LineBreak/>
+            <LineBreak/>
+        	<Run Text="In the get value page put"/>
+        	<LineBreak/>
+        	<Run Text="N = Number of total values of y0 to yn ."/>
+                </TextBlock>
+
+                <Line Name="line2" Grid.Row="2" Margin="0,30,0,0" Stroke="White" StrokeThickness="2" X2="150" />
+
+
+                <TextBlock Grid.Row="3" FontSize="20" >
+            <Run Text="How to Put a values in the page : "/>
+        	<LineBreak/>
+            <LineBreak/>
+        	<Run Text="In the get value page put "/>
+        	<LineBreak/>
+        	<Run Text="the values of x0 , x1 and y0 to y6 in the boxes."/>
+                </TextBlock>
+
+                <Line Name="line3" Grid.Row="3" Margin="0,30,0,0" Stroke="White" StrokeThickness="2" X2="300" />
+
+                <TextBlock Grid.Row="4" FontSize="20" >
+            <Run Text="Fix Decimals : "/>
+        	<LineBreak/>
+            <LineBreak/>
+        	<Run Text="The fix decimal box is provide the fix"/>
+        	<LineBreak/>
+        	<Run Text="decimal places in the calculation."/>
+            <LineBreak/>
+        	<Run Text="This is necessory to add the values."/>
+                </TextBlock>
+
+                <Line Name="line4" Grid.Row="4" Margin="0,30,0,0" Stroke="White" StrokeThickness="2" X2="150" />
+
+                <TextBlock Grid.Row="5" FontSize="20" >
+            <Run Text="Put all the values is textbox and"/>
+        	<LineBreak/>
+        	<Run Text="hit calculate button for answer."/>
+                </TextBlock>
+
+            </Grid>
+        </ScrollViewer>
+    </Grid>
+</Page>
+
